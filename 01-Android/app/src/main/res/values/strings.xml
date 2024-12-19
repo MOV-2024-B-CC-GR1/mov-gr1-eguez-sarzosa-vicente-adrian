@@ -2,6 +2,25 @@
     <string name="app_name">ccgr12024b_vaes</string>
     <string name="saludo">Hello Friends</string>
     <color name="saludo_color">#CD8915</color>
+
+    <string-array name="string_array_opciones_dialogo">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="title_activity_aciclo_vida">ACicloVida</string>
 
     <!-- Preference Titles -->
